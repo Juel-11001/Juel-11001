@@ -1,4 +1,4 @@
-## Hi there 👋 I'm J
+                                                            ## Hi there 👋 I'm Juel Hossain Rana
 
 # 💫 About Me:
 🔭 I’m currently working on [E-commerce]()<br>👯 I’m looking to collaborate on open-source Laravel projects.<br>🌱 I’m currently trying to learn advanced Laravel techniques and more.<br>
@@ -9,9 +9,9 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=name11001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=name11001&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=name11001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Juel-11001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juel-11001&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juel-11001&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 <div align="center">
