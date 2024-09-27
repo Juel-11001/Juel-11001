@@ -1,4 +1,4 @@
-                                                            ## Hi there 👋 I'm Juel Hossain Rana
+## Hi there 👋 I'm Juel Hossain Rana
 
 # 💫 About Me:
 🔭 I’m currently working on [E-commerce]()<br>👯 I’m looking to collaborate on open-source Laravel projects.<br>🌱 I’m currently trying to learn advanced Laravel techniques and more.<br>
