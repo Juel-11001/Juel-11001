@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Juel Hossain Rana
 <div align="center">
+  ## Hi there 👋 I'm Juel Hossain Rana
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on [Food](https://github.com/Juel-11001/Multi-Restaurant-Food-Order-Application)<br>👯 I’m looking to collaborate on open-source Laravel projects.<br>🌱 I’m currently trying to learn advanced Laravel techniques and more.<br>
