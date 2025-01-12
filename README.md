@@ -1,5 +1,7 @@
 <div align="center">
-  ## Hi there 👋 I'm Juel Hossain Rana
+
+## Hi there 👋 I'm Juel Hossain Rana
+
 </div>
 
 # 💫 About Me:
